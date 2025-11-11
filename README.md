@@ -1,4 +1,6 @@
-# 👩🏻‍💻 Lucas Xavier
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1EF2FF&center=true&width=550&lines=Lucas+Xavier" alt="Typing SVG" /></a>
+</div>
 
 **`Desenvolvedor FullStack`**
 
@@ -7,6 +9,7 @@
 Atualmente, trabalho em um projeto com TypeScript, Vue, Node.js (usando NestJS e TypeORM), além de desenvolver um projeto acadêmico com React + TypeScript e ASP.NET + Entity Framework no backend.
 
 ---
+<img align="right" alt="" height="190px" src="/src/studynight.gif">
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:lucasbebianoxavier@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/lucas-bebiano-75bb09226/)
