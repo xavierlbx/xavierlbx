@@ -16,8 +16,6 @@ Atualmente, trabalho em um projeto com TypeScript, Vue, Node.js (usando NestJS e
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/lucasxavv/)
 
 
-
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -83,6 +81,10 @@ Atualmente, trabalho em um projeto com TypeScript, Vue, Node.js (usando NestJS e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
 />
+
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="C#" 
