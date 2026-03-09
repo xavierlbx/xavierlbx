@@ -4,9 +4,11 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Sou Lucas Bebiano Xavier, tenho 21 anos e sou de Minas Gerais. Estou finalizando o curso de Análise e Desenvolvimento de Sistemas na PUC Minas. Sempre fui o garoto dos games, apaixonado por ciência, tecnologia e movido a café, sigo explorando cada vez mais o universo do desenvolvimento de software.
+👋 Olá! Sou Lucas Bebiano Xavier, tenho 21 anos e sou de Minas Gerais. Sou formado em Análise e Desenvolvimento de Sistemas pela PUC Minas e apaixonado por tecnologia desde cedo.
 
-Atualmente, trabalho em um projeto com TypeScript, Vue, Node.js (usando NestJS e TypeORM), além de desenvolver um projeto acadêmico com React + TypeScript e ASP.NET + Entity Framework no backend.
+Atualmente trabalho com TypeScript, Vue e Node.js (NestJS e TypeORM), além de desenvolver projetos com React + TypeScript no frontend e ASP.NET + Entity Framework no backend.
+
+Aqui no GitHub compartilho alguns projetos que utilizo para estudar e evoluir como desenvolvedor.
 
 ---
 <img align="right" alt="" height="190px" src="/src/studynight.gif">
