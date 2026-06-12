@@ -10,13 +10,15 @@ Atualmente trabalho com TypeScript, Vue e Node.js (NestJS e TypeORM), além de d
 
 Aqui no GitHub compartilho alguns projetos que utilizo para estudar e evoluir como desenvolvedor.
 
+Portfolio:
+https://portfolio-lucasxavier.vercel.app/
+
 ---
 <img align="right" alt="" height="190px" src="/src/studynight.gif">
 
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:lucasbebianoxavier@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/lucas-bebiano-75bb09226/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/lucasxavv/)
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lucasbebianoxavier@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucas-bebiano-75bb09226/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucasxavv/)
 
 ### 🤖 Linguagens e Tecnologias
 <img 
