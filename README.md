@@ -17,7 +17,7 @@ https://portfolio-lucasxavier.vercel.app/
 <img align="right" alt="" height="190px" src="/src/studynight.gif">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lucasbebianoxavier@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/lucas-bebiano)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucas-bebiano/)
 
 ### 🤖 Linguagens e Tecnologias
 <img 
